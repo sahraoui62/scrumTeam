@@ -18,6 +18,7 @@
             <span class="adjoined xnarrow">Pwd</span>
             <input class="xwide text input" type="password" name="password" required="required" placeholder="Password"/>
         </li>
+
     </ul>
     
     <div class="centered five columns">
